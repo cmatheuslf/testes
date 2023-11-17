@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "times": [
     {
-      "id": 1,
-      "title": "hello"
+      "mic": 15,
+      "hm3301": "20,
+      "scd30": 10
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
