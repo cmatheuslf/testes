@@ -1,4 +1,11 @@
 {
-"time_mic":10,
-"time_hm3301": 10
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
