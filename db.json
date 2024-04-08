@@ -1,6 +1,6 @@
 
 {
-  "ips": "http://[fe80::3d4b:6eee:bbb2:f239]:5000/ips"
+  "ips": "http://[fe80::3d4b:6eee:bbb2:f239]:5000/ips",
   "times": {
     "mic": 15,
     "air_sensors": 60
