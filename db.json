@@ -1,9 +1,8 @@
-{
-  "times": 
-    {
-      "mic": 15,
-      "air_sensors": 60
-    },
 
-  "ips": "http://[::1]:5000/ips/15?%22ipv6%22=16"
+{
+  "times": {
+    "mic": 15,
+    "air_sensors": 60
+  },
+  "ips": "http://[::1]:5000/ips/"
 }
