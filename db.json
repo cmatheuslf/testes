@@ -1,5 +1,5 @@
 {
-  "ips": "fe80::3d4b:6eee:bbb2:f239",
+  "ips": {"fe80::3d4b:6eee:bbb2:f239"},
   "times": {
     "mic": 15,
     "air_sensors": 60
